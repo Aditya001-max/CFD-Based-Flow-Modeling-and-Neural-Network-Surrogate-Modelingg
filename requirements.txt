@@ -1,0 +1,16 @@
+# Core Deep Learning & Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+h5py>=3.8.0
+
+# Neural Network Framework (Keras / TensorFlow)
+tensorflow>=2.12.0
+keras>=2.12.0
+
+# CFD & Mesh Visualization Data I/O
+vtk>=9.2.0
+
+# Utilities
+python-dotenv>=1.0.0

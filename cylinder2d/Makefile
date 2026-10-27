@@ -1,3 +1,7 @@
+#  CFD Simulation and Neural Network Surrogate Modeling Pipeline
+#  Author: Aditya001-max <kaushikadityaraj001@gmail.com>
+#  Repository: https://github.com/Aditya001-max/Computational-Fluid-Dynamics-Machine-Learning-Examples
+#
 #  This file is part of the OpenLB library
 #
 #  Copyright (C) 2007 Mathias Krause

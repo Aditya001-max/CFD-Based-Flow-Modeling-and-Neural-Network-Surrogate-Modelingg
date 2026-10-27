@@ -1,5 +1,8 @@
-/*  Lattice Boltzmann sample, written in C++, using the OpenLB
- *  library
+/*  CFD Simulation and Neural Network Surrogate Modeling Pipeline
+ *  Author: Aditya001-max <kaushikadityaraj001@gmail.com>
+ *  Repository: https://github.com/Aditya001-max/Computational-Fluid-Dynamics-Machine-Learning-Examples
+ *
+ *  Lattice Boltzmann sample, written in C++, using the OpenLB library
  *
  *  Copyright (C) 2006-2014 Jonas Latt, Mathias J. Krause,
  *  Vojtech Cvrcek, Peter Weisbrod
